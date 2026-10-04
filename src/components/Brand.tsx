@@ -1,0 +1,1 @@
+import {Sparkles} from 'lucide-react';export default function Brand(){return <div className="flex items-center gap-2 font-semibold"><span className="grid h-8 w-8 place-items-center rounded-lg" style={{background:'var(--brand-gradient)'}}><Sparkles size={17}/></span><span className="display text-lg">Limova<span style={{color:'var(--brand-orange)'}}>.</span>ai</span></div>}
