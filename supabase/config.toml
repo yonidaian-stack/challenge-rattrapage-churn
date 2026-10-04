@@ -1,0 +1,7 @@
+project_id = "challenge-rattrapage-churn"
+[functions.deposer-dossier]
+verify_jwt = false
+[functions.admin-login]
+verify_jwt = false
+[functions.admin-api]
+verify_jwt = false
